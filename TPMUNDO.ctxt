@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TPMUNDO
+comment1.params=
+comment1.target=TPMUNDO()
+comment1.text=\r\nSe\ crea\ las\ dimensiones\ del\ escenario\ \r\n
+comment2.params=desde\ hasta
+comment2.target=int\ aleatorioEntre(int,\ int)
+comment3.params=
+comment3.target=void\ generarPOIs()
+comment4.params=
+comment4.target=void\ generarTodo()
+comment4.text=\r\nSe\ crean\ los\ objetos\ iniciales\ dentro\ del\ escenario\ \r\n
+numComments=5
